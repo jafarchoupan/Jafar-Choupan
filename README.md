@@ -1,7 +1,7 @@
-![MasterHead](https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67)
+![MasterHead](https://jafarchoupan.me/uploads/1680297458.6308q9Mv3hlwo7/network-infrastructure-design.webp)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sara1989mohammadi&label=Profile%20views&color=0e75b6&style=flat" alt="Jafar Choupan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jafarchoupan&label=Profile%20views&color=0e75b6&style=flat" alt="Jafar Choupan" /> </p>
 <h1 align="center">Hi 👋, I'm Jafar Choupan</h1>
 <h3 align="center">A passionate Full Stack Developer from Iran</h3>
 <p> Jafar Choupan has been working in the IT industry since 2015, he has served tens of businesses and industries as Network Engineer, Software Engineer, Network Administrator, and IT trainer. His clients can expect a professional and friendly personality from him. He brings years of knowledge and experience to the projects.
