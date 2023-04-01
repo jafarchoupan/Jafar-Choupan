@@ -1,6 +1,8 @@
-![MasterHead](<div align="center">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://jafarchoupan.me/uploads/1680297458.6308q9Mv3hlwo7/network-infrastructure-design.webp"><img alt="Coding" width="800" src="https://jafarchoupan.me/uploads/1680297458.6308q9Mv3hlwo7/network-infrastructure-design.webp" style="max-width: 100%;"></a>
-</div>)
+![MasterHead](
+<div align="center">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://jafarchoupan.me/uploads/1680297458.6308q9Mv3hlwo7/network-infrastructure-design.webp"><img alt="Coding" width="900" height="400" src="https://jafarchoupan.me/uploads/1680297458.6308q9Mv3hlwo7/network-infrastructure-design.webp" style="max-width: 100%;"></a>
+</div>
+)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jafarchoupan&label=Profile%20views&color=0e75b6&style=flat" alt="Jafar Choupan" /> </p>
